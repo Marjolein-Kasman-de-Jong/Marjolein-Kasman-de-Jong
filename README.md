@@ -12,5 +12,5 @@ I'm a former Dutch language teacher starting a career in front-end development. 
 
 ## Find me
 
-LinkedIn: https://www.linkedin.com/in/marjolein-kasman-de-jong-67aa1426b
+LinkedIn: https://www.linkedin.com/in/marjoleinkasmandejong
 
