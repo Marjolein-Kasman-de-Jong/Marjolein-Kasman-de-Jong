@@ -2,7 +2,7 @@
 
 ## Profile
 
-I'm a former Dutch language teacher starting a career in front-end development. Currently enrolled in the Codecademy Front-End Engineer Career Path, I'm acquiring basic skills in HTML, CSS and JavaScript.
+I'm a former Dutch language teacher starting a career in front-end development.
 ## Languages
 
 * HTML
