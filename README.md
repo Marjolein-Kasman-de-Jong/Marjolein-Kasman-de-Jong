@@ -2,7 +2,7 @@
 
 ## Profile
 
-Former Dutch language teacher starting a career in front-end development. Currently enrolled in the NOVI Hogeschool bootcamp Web Developer.
+Looking for a job as a junior frontend developer.
 
 ## Find me
 
