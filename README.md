@@ -1,8 +1,6 @@
 # Marjolein Kasman-de Jong
 
-## Profile
-
-Finished the NOVI Hogeschool bootcamp Web Developer. Looking for a job as a (web)developer.
+Frontend developer 💻 HTML | CSS | JavaScript (React) | Python ✅️ NOVI bootcamp Web Developer 💪 𝐰𝐡𝐢𝐥𝐞(!(𝐬𝐮𝐜𝐜𝐞𝐞𝐝=𝐭𝐫𝐲()));
 
 ## Find me
 
