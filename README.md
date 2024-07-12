@@ -1,4 +1,4 @@
-# Marjolein Kasman-de Jong
+# Marjolein Kasman-de Jong 🙋‍♀️
 Frontend developer 
 
 💻 HTML | CSS | JavaScript (React) | Python<br> 
