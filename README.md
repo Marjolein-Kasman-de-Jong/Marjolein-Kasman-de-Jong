@@ -1,8 +1,7 @@
-# Marjolein Kasman-de Jong 🙋‍♀️
-## Frontend developer 
-
 ![Programming quote](https://github.com/Marjolein-Kasman-de-Jong/Marjolein-Kasman-de-Jong/blob/main/Profile_Header.jpg)
 
+# Marjolein Kasman-de Jong 🙋‍♀️
+## Frontend developer 
 
 💻 HTML | CSS | JavaScript (React) | Python<br> 
 ✅️ NOVI bootcamp Web Developer <br>
@@ -11,4 +10,3 @@
 ## Find me
 
 LinkedIn: https://www.linkedin.com/in/marjoleinkasmandejong
-
