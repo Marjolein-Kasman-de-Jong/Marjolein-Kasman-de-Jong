@@ -1,4 +1,4 @@
-![Programming quote](https://github.com/Marjolein-Kasman-de-Jong/Marjolein-Kasman-de-Jong/blob/main/Profile_Header.jpg)
+![Programming quote](https://github.com/Marjolein-Kasman-de-Jong/Marjolein-Kasman-de-Jong/blob/main/Profile_Header.)
 
 # Marjolein Kasman-de Jong 🙋‍♀️
 
