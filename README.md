@@ -1,5 +1,5 @@
 # Marjolein Kasman-de Jong 🙋‍♀️
-Frontend developer 
+## Frontend developer 
 
 💻 HTML | CSS | JavaScript (React) | Python<br> 
 ✅️ NOVI bootcamp Web Developer <br>
