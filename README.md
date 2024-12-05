@@ -1,12 +1,12 @@
 ![Programming quote](https://github.com/Marjolein-Kasman-de-Jong/Marjolein-Kasman-de-Jong/blob/main/Profile_Header.jpg)
 
-# Marjolein Kasman-de Jong 🙋‍♀️
+# Marjolein Kasman-de Jong
 
-### Frontend developer 
+### 💻 Frontend developer 
 
-💻 HTML | CSS | JavaScript (React) | Python<br> 
-✅️ NOVI bootcamp Web Developer <br>
-💪 𝐰𝐡𝐢𝐥𝐞(!(𝐬𝐮𝐜𝐜𝐞𝐞𝐝=𝐭𝐫𝐲())); 
+Ik hou van web development, omdat ik graag mooie dingen maak én omdat ik elk project nieuwe problemen tegenkom. Hoe lastiger het probleem, hoe groter de voldoening als het lukt om het op te lossen.
+
+⭐️ HTML ⭐️ CSS ⭐️ JavaScript ⭐️ React ⭐️ Python ⭐️ Figma ⭐️
 
 ## Find me
 
