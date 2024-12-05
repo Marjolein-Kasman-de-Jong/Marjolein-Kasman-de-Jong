@@ -2,7 +2,7 @@
 
 # Marjolein Kasman-de Jong
 
-### 💻 Frontend developer 
+### Frontend developer 
 
 Ik hou van web development, omdat ik graag mooie dingen maak én omdat ik elk project nieuwe problemen tegenkom. Hoe lastiger het probleem, hoe groter de voldoening als het lukt om het op te lossen.
 
