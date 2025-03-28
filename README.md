@@ -2,8 +2,6 @@
 
 # Marjolein Kasman-de Jong
 
-### Eerstelijns helpdeskmedewerker | Front-end developer @ Census
-
 ⭐️ HTML ⭐️ CSS ⭐️ JavaScript ⭐️ React ⭐️ MODX ⭐️
 
 ## Find me
